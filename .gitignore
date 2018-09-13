@@ -1,0 +1,6 @@
+getopt
+.idea/*
+socket
+subprocess
+sys
+threading
