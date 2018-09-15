@@ -4,3 +4,4 @@ socket
 subprocess
 sys
 threading
+.gitignore~
