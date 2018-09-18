@@ -4,4 +4,7 @@ socket
 subprocess
 sys
 threading
-.gitignore~
+.gitignore~getopt
+sys
+socket
+.idea
